@@ -42,7 +42,7 @@ The easiest way to see `tiny-shell` in action is to build the host example. It u
 
 ```sh
 # 1. Clone the repository
-git clone [https://github.com/Yanujz/tiny-shell.git](https://github.com/Yanujz/tiny-shell.git)
+git clone https://github.com/Yanujz/tiny-shell
 cd tiny-shell
 
 # 2. Create a build directory
